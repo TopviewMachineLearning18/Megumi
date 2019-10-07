@@ -1,0 +1,40 @@
+1400831
+
+order_detail_id 丢弃
+
+父订单id 1250068
+商品id    378
+会员id    293572
+用户id    929808
+
+order_detail_id                0
+order_id                       0
+order_total_num                0
+order_amount                   0
+order_total_payment            0
+order_total_discount           0
+order_pay_time                 0
+order_status                   0
+order_count                    0
+is_customer_rate           84867
+order_detail_status            0
+order_detail_goods_num         0
+order_detail_amount        84867
+order_detail_payment           0
+order_detail_discount          0
+customer_province          85516
+customer_city              85516
+member_id                      0
+customer_id                   67
+customer_gender           849229
+member_status             849229
+is_member_actived         849229
+goods_id                       0
+goods_price                    0
+goods_status                   0
+goods_has_discount             0
+goods_list_time                0
+goods_delist_time              0
+dtype: int64
+
+样本不平均
